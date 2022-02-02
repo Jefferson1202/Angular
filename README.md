@@ -8,6 +8,7 @@ Trabalho feito durante o andamento do Curso Informática para Internet do Senai 
 - [Angular](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-✅ Projeto Finalizado
+## Projeto Finalizado ✅
+
 
 
