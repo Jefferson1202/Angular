@@ -9,7 +9,12 @@ Trabalho feito durante o andamento do Curso Informática para Internet do Senai 
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Projeto Finalizado ✅
-![Pagina Incial](https://github.com/Jefferson1202/Angular/blob/master/mural.png) 
-![Mural](https://github.com/Jefferson1202/Angular/mural.png)
+
+#### Mural de Vagas
+![Mural](https://github.com/Jefferson1202/Angular/blob/master/src/assets/img/vagas/mural.png)
+
+#### Painel de Controle
+![Painel](https://github.com/Jefferson1202/Angular/blob/master/src/assets/img/vagas/painel.png) 
+
 
 
