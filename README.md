@@ -9,6 +9,8 @@ Trabalho feito durante o andamento do Curso Informática para Internet do Senai 
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Projeto Finalizado ✅
+1: ![Projeto em Funcionamento](https://github.com/Jefferson1202/Angular/edit/master/src/assets/img/vagas/Painel.png)
 
+2: ![Projeto em Funcionamento](https://github.com/Jefferson1202/Angular/edit/master/src/assets/img/vagas/Painel.png)
 
 
